@@ -123,7 +123,7 @@ namespace ТЗ_АРМО
         /// <summary>
         /// Алгоритм поиска
         /// </summary>
-        /// <param name="directory">Директория</param>
+        /// <param name="directory">Директория </param>
         /// <param name="pateetnName">Шаблон названия файла</param>
         /// <param name="patternText">шаблон текста</param>
         [Obsolete]
